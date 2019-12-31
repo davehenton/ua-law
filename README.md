@@ -10,14 +10,26 @@
 
 У Сполучених Штатах Америки все починалось с одного репозиторію 10 років тому, зараз розділ на GitHub містить сховища 500 державних установ, громадських організацій, урядів і муніципалітетів, які займаються законотворчістю разом з користувачами GitHub.
 
-## Code of Conduct
+## З чого почати?
 
-This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
+1. Знайомтеся з доступною інформацією:
 
-## Contributing
+* [Конституція України](Конституція.md)
+* [Закони](Закони)
+* [Кодекси](Кодекси)
+* [Регламенти](Регламенти)
+* [Статути](Статути)
 
-Please read through our [Contributing Guidelines](CONTRIBUTING.md).
+2. [Коментуйте пулл-реквести](https://github.com/opensourcewebsite-org/ua-law/pulls) з офіційними змінами законодавства та пропозиціями користувачів.
 
-## License
+3. Запросіть друзів до участі.
 
-This project is open source and available freely under the [MIT license](LICENSE.md).
+4. [Вносьте зміни та пропозиції](CONTRIBUTING.md).
+
+## Кодекс поведінки
+
+Цей проект та всі його учасники дотримуються [Кодексу поведінки](CODE_OF_CONDUCT.md).
+
+## Ліцензія
+
+Це проект з відкритим кодом та доступний у вільному доступі по [ліцензії MIT](LICENSE.md).
