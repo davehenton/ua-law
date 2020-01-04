@@ -1,7 +1,7 @@
-# Contributing Guidelines
+# Допомога проекту
 
-First off, thanks for taking the time to contribute!
+Дякуємо за ваш інтерес до участі у даному проекті! Мы вітаємо будь-яку допомогу, та дуже вдячні, що ви вирішили долучитись до нашої команди!
 
-The following is a set of guidelines for contributing to OpenSourceWebsite, which are hosted in the [OpenSourceWebsite Organization](https://github.com/opensourcewebsite-org) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+Нижче наведено набір рекомендацій для участі в цьому проекті, розміщеному в [OpenSourceWebsite Organization](https://github.com/opensourcewebsite-org) на GitHub.
 
-This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
+Цей проект та всі його учасники дотримуються [Кодексу поведінки](CODE_OF_CONDUCT.md).
