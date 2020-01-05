@@ -22,13 +22,13 @@
 
 2. [Коментуйте пулл-реквести](https://github.com/opensourcewebsite-org/ua-law/pulls) з офіційними змінами законодавства та пропозиціями користувачів.
 
-3. [Перегляньте перелік завдань](https://github.com/grandmotivator/ua-law-test/issues) та оберіть завдання собі до вподоби, або запропонуйте нове.
+3. [Перегляньте перелік завдань](https://github.com/opensourcewebsite-org/ua-law/issues) та оберіть завдання собі до вподоби, або запропонуйте нове.
 
 4. [Вносьте зміни та пропозиції до документів](CONTRIBUTING.md).
 
-5. [Поставте зірку цьому репозиторію](https://help.github.com/en/github/getting-started-with-github/saving-repositories-with-stars), аби не загубити посилання та допомогти більшій кількості людей, дізнатись про проєкт.
+5. [Поставте "Star" цьому репозиторію](https://help.github.com/en/github/getting-started-with-github/saving-repositories-with-stars), аби не загубити посилання та допомогти більшій кількості людей, дізнатись про проєкт.
 
-7. [Натисніть "Watch" в цьому репозиторію](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/watching-and-unwatching-repositories) та відстежуйте останні зміни.
+7. [Включіть "Watch" в цьому репозиторію](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/watching-and-unwatching-repositories) та відстежуйте останні зміни.
 
 6. [Підпішиться на наш Telegram канал](https://t.me/ua_law) та слідкуйте за останніми новинами.
 
