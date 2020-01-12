@@ -22,8 +22,8 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: html
           args: |+
-                <b><a href=\"${{ github.event.sender.html_url }}\">${{ github.actor }}</a></b> відкрив Pull Request <a href=\"${{ github.event.pull_request.html_url }}\">${{ github.event.pull_request.title }}</a>.
-                
+                <a href=\"${{ github.event.sender.html_url }}\">${{ github.actor }}</a> відкрив Pull Request <a href=\"${{ github.event.pull_request.html_url }}\">${{ github.event.pull_request.title }}</a>
+
       - name: issues send custom message with args
         uses: appleboy/telegram-action@master
         if: github.event_name == 'issues'
@@ -32,8 +32,8 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: html
           args: |+
-                <b><a href=\"${{ github.event.sender.html_url }}\">${{ github.actor }}</a></b> відкрив Issue <a href=\"${{ github.event.issue.html_url }}\">${{ github.event.issue.title }}</a>.
-                
+                <a href=\"${{ github.event.sender.html_url }}\">${{ github.actor }}</a> відкрив Issue <a href=\"${{ github.event.issue.html_url }}\">${{ github.event.issue.title }}</a>
+
       - name: pull request review comment send custom message with args
         uses: appleboy/telegram-action@master
         if: github.event_name == 'pull_request_review_comment'
@@ -42,10 +42,10 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: html
           args: |+
-                <b><a href=\"${{ github.event.sender.html_url }}\">${{ github.actor }}</a></b> прокоментував <a href=\"${{ github.event.comment.html_url }}\">${{ github.event.pull_request.title }}</a>:
-                
-                <i>${{ github.event.comment.body }}</i>
-                
+                <a href=\"${{ github.event.sender.html_url }}\">${{ github.actor }}</a> прокоментував <a href=\"${{ github.event.comment.html_url }}\">${{ github.event.pull_request.title }}</a>:
+
+                <pre>${{ github.event.comment.body }}</pre>
+
       - name: issue comment send custom message with args
         uses: appleboy/telegram-action@master
         if: github.event_name == 'issue_comment'
@@ -54,6 +54,6 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: html
           args: |+
-                <b><a href=\"${{ github.event.sender.html_url }}\">${{ github.actor }}</a></b> прокоментував <a href=\"${{ github.event.comment.html_url }}\">${{ github.event.issue.title }}</a>:
-                
-                <i>${{ github.event.comment.body }}</i>
+                <a href=\"${{ github.event.sender.html_url }}\">${{ github.actor }}</a> прокоментував <a href=\"${{ github.event.comment.html_url }}\">${{ github.event.issue.title }}</a>:
+
+                <pre>${{ github.event.comment.body }}</pre>
