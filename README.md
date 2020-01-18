@@ -20,11 +20,18 @@
 * [Регламенти](Регламенти)
 * [Статути](Статути)
 
-2. [Коментуйте пулл-реквести](https://github.com/opensourcewebsite-org/ua-law/pulls) з офіційними змінами законодавства та пропозиціями користувачів.
+2. [Коментуйте пулл-реквести](https://github.com/opensourcewebsite-org/ua-law/pulls) з офіційними змінами законодавства та пропозиціями користувачів:
+
+* [Пропозиціі учасників щодо змін законодавства](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3A%22пропозиція+змін%22)
+* [Офіційні документи що набирають чинності](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3Aдокумент)
+* [Офіційни зміни до документів що набирають чинності](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Apr+is%3Aopen+label%3A%22зміни+до+документу%22)
+* [Офіційні проєкти нових документів що потребують обговорення](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3A%22проєкт+нового+документу%22)
+* [Офіційні проєкти змін до документів що потребують обговорення](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Apr+is%3Aopen+label%3A%22проєкт+змін+до+документу%22)
+* [Виправлення помилок учасниками в документах](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3Aпомилка)
 
 3. [Перегляньте перелік завдань](https://github.com/opensourcewebsite-org/ua-law/issues) та оберіть завдання собі до вподоби, або запропонуйте нове.
 
-4. [Вносьте зміни та пропозиції до документів](CONTRIBUTING.md).
+4. [Вносьте зміни та пропозиції до документів, створюйте нові завдання, допомагайте проєкту](CONTRIBUTING.md).
 
 5. [Поставте "Star" цьому репозиторію](https://help.github.com/en/github/getting-started-with-github/saving-repositories-with-stars), аби не загубити посилання та допомогти більшій кількості людей, дізнатися про проєкт.
 
