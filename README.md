@@ -22,11 +22,11 @@
 
 2. [Коментуйте пулл-реквести](https://github.com/opensourcewebsite-org/ua-law/pulls) з офіційними змінами законодавства та пропозиціями користувачів:
 
-* [Пропозиціі учасників щодо змін законодавства](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3A%22пропозиція+змін%22)
-* [Офіційні документи що набирають чинності](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3Aдокумент)
-* [Офіційни зміни до документів що набирають чинності](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Apr+is%3Aopen+label%3A%22зміни+до+документу%22)
-* [Офіційні проєкти нових документів що потребують обговорення](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3A%22проєкт+нового+документу%22)
-* [Офіційні проєкти змін до документів що потребують обговорення](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Apr+is%3Aopen+label%3A%22проєкт+змін+до+документу%22)
+* [Пропозиції учасників щодо змін законодавства](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3A%22пропозиція+змін%22)
+* [Офіційні документи, які набирають чинності](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3Aдокумент)
+* [Офіційні зміни до документів, які набирають чинності](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Apr+is%3Aopen+label%3A%22зміни+до+документу%22)
+* [Офіційні проєкти нових документів, які потребують обговорення](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3A%22проєкт+нового+документу%22)
+* [Офіційні проєкти змін до документів, які потребують обговорення](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Apr+is%3Aopen+label%3A%22проєкт+змін+до+документу%22)
 * [Виправлення помилок учасниками в документах](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3Aпомилка)
 
 3. [Перегляньте перелік завдань](https://github.com/opensourcewebsite-org/ua-law/issues) та оберіть завдання собі до вподоби, або запропонуйте нове.
