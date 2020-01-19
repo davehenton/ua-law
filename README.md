@@ -35,11 +35,11 @@
 
 5. [Поставте "Star" цьому репозиторію](https://help.github.com/en/github/getting-started-with-github/saving-repositories-with-stars), аби не загубити посилання та допомогти більшій кількості людей, дізнатися про проєкт.
 
-7. [Увімкніть "Watch" у цьому репозиторію](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/watching-and-unwatching-repositories) та відстежуйте останні зміни.
+6. [Увімкніть "Watch" у цьому репозиторію](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/watching-and-unwatching-repositories) та відстежуйте останні зміни.
 
-6. [Підпишіться на наш Telegram канал](https://t.me/ua_law) та слідкуйте за останніми новинами.
+7. [Підпишіться на наш Telegram канал](https://t.me/ua_law) та слідкуйте за останніми новинами.
 
-4. Запросіть друзів до участі в проєкті.
+8. Запросіть друзів до участі в проєкті.
 
 ## Матеріальна підтримка
 
