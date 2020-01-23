@@ -12,7 +12,7 @@ Only in this way will we be able to make the laws clearer and the authorities mo
 
 There are no right or wrong thoughts here: you can express free your suggestions for improving laws, add existing laws or amendments to laws, discuss the lawmaking of Members of Parliament, or become a lawmaker yourself: propose a new law.
 
-## Where to start?
+## Getting Started
 
 1. Read the available information:
 
@@ -49,13 +49,13 @@ Lobbying in developed countries is a tool for cooperation and communication that
 
 We believe that the promotion of interests is possible only through focused pressure on government bodies and thus changes in society can be achieved. We uphold state interests in the international arena and public or private interests within the state.
 
-[Read more](/LOBBYING.md)
+[Read more](/LOBBYING.en.md)
 
 ## Donate
 
 We need your support to continue the project and expand its operations. You can donate to support the project as a whole or to support a particular political area.
 
-[Read more](/DONATE.md)
+[Read more](/DONATE.en.md)
 
 ## Code of Conduct
 
@@ -65,4 +65,4 @@ We invite everyone to join the process with us! If you would like to join our am
 
 ## License
 
-This project is open-source and available freely under the [MIT license](LICENSE.md).
+This project is open source and available freely under the [MIT license](LICENSE.md).
