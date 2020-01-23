@@ -4,7 +4,7 @@
 
 Lobbying (advocacy) is a legal democratic way of interaction between government and society. Today, this institute exists in every civilized country in the world and is part of the political system.
 
-If you are interested in a specific draft law in the form of a [pull-request](https://github.com/grandmotivator/ua-law-test/pulls) or political area, we can join our forces to achieve an effective influence on decision-making authorities and to represent our view of the issue. We guarantee that the process is transparent and within the law. We collaborate with the best members of the [Ukrainian Association of GR Professionals and Lobbyists](http://grukraine.com.ua), with government bodies, impact groups, and the media.
+If you are interested in a specific draft law in the form of a [pull-request](https://github.com/opensourcewebsite-org/ua-law/pulls) or political area, we can join our forces to achieve an effective influence on decision-making authorities and to represent our view of the issue. We guarantee that the process is transparent and within the law. We collaborate with the best members of the [Ukrainian Association of GR Professionals and Lobbyists](http://grukraine.com.ua), with government bodies, impact groups, and the media.
 
 Our team uses non-standard, creative, but legitimate means to achieve the desired results, as well as classic forms of lobbying such as:
 
