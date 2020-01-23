@@ -22,7 +22,7 @@
 * [Регламенти](Регламенти)
 * [Статути](Статути)
 
-2. [Коментуйте пулл-реквести](https://github.com/opensourcewebsite-org/ua-law/pulls) з офіційними змінами законодавства та пропозиціями користувачів:
+2. [Коментуйте пулл-реквести](https://github.com/opensourcewebsite-org/ua-law/pulls) з офіційними змінами законодавства та пропозиціями користувачів, [ставте "лайки" або "дизлайки"](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-conversations-on-github):
 
 * [Пропозиції учасників щодо змін законодавства](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3A%22пропозиція+змін%22)
 * [Офіційні документи, які набирають чинності](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3Aдокумент)

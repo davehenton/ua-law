@@ -22,7 +22,7 @@ There are no right or wrong thoughts here: you can express free your suggestions
 * [Regulations](Регламенти)
 * [Statutes](Статути)
 
-2. [Make comments on the pull-requests](https://github.com/opensourcewebsite-org/ua-law/pulls) with official amendments to the legislation and users’ proposals:
+2. [Make comments on the pull-requests](https://github.com/opensourcewebsite-org/ua-law/pulls) with official amendments to the legislation and users’ proposals, [put your "likes" or "dislikes"](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-conversations-on-github):
 
 * [Participants' proposals for changes in legislation](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3A%22пропозиція+змін%22)
 * [Official documents that enter into force](https://github.com/opensourcewebsite-org/ua-law/pulls?q=is%3Aopen+is%3Apr+label%3Aдокумент)
