@@ -41,7 +41,9 @@ There are no right or wrong thoughts here: you can express free your suggestions
 
 7. [Subscribe to our Telegram channel](https://t.me/ua_law) and stay up-to-date.
 
-8. Invite friends to participate in the project.
+8. [Join to our Telegram chat](https://t.me/en_law_chat) and discuss new ideas.
+
+9. Invite friends to participate in the project.
 
 ## Lobbying of draft laws
 
