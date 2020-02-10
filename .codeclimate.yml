@@ -1,0 +1,19 @@
+# https://codeclimate.com
+
+version: "2"
+checks:
+  file-lines:
+    enabled: false
+  method-complexity:
+    enabled: false
+  method-lines:
+    enabled: false
+plugins:
+  editorconfig:
+    enabled: true
+  fixme:
+    enabled: true
+  git-legal:
+    enabled: true
+  markdownlint:
+    enabled: true
